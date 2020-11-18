@@ -39,7 +39,7 @@ This is the topic of my bachelor (undergrad) thesis that I wrote over the course
 
 
 ## Special thanks to
-Jussi Salzwedel, my first exmanier. 
+Jussi Salzwedel, my first examiner. 
 Jason Carver, my second examiner. 
 Christoph Burgdorf who guided me through the whole thought-process and was my mentor and supervisor. 
 Kurt Merbeth who always had an open ear in the middle of the night to listen
