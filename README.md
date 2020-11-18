@@ -42,7 +42,7 @@ This is the topic of my bachelor (undergrad) thesis that I wrote over the course
 Jussi Salzwedel, my first examiner. 
 Jason Carver, my second examiner. 
 Christoph Burgdorf who guided me through the whole thought-process and was my mentor and supervisor. 
-Kurt Merbeth who always had an open ear and was immensely helpful in gaining understand through discussion :) 
+Kurt Merbeth who always had an open ear and was immensely helpful in gaining understanding through discussion :) 
 
 ## License
 If you want to use any of this, feel free. 
